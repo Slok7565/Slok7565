@@ -50,22 +50,26 @@
 
 ## 📊 GitHub 数据
 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slok7565&layout=compact&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&langs_count=8&card_opacity=0&exclude_repo=archive,deprecated" alt="Top Languages" />
-
-<div align="right" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XtremeWave&repo=FinalSuspect&bg_color=00000000&title_color=5bc0be&text_color=64D2C5)](https://github.com/XtremeWave/FinalSuspect)
-
+<div align="left" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slok7565&layout=compact&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&langs_count=8&card_opacity=0&exclude_repo=archive,deprecated" alt="Top Languages" />
 </div>
+
+<div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XtremeWave&repo=FinalSuspect&hide_border=true&bg_color=00000000&title_color=5bc0be&text_color=64D2C5)](https://github.com/XtremeWave/FinalSuspect)
 </div>
-  <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Slok7565&show_icons=true&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&icon_color=58a6ff&include_all_commits=true" alt="GitHub Stats" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Slok7565&theme=transparent&hide_border=true&border_radius=4&sideNums=5BC0BE&sideLabels=64D2C5&currStreakNum=5BC0BE&currStreakLabel=64D2C5&ring=41E3EB&fire=4FC4EB" alt="GitHub Streak" />
-  </div>
-  <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slok7565&theme=transparent" alt="Profile Details">
-  </div>
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Slok7565&show_icons=true&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&icon_color=58a6ff&include_all_commits=true" alt="GitHub Stats" />
+</div>    
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Slok7565&theme=transparent&hide_border=true&border_radius=4&sideNums=5BC0BE&sideLabels=64D2C5&currStreakNum=5BC0BE&currStreakLabel=64D2C5&ring=41E3EB&fire=4FC4EB" alt="GitHub Streak" />
+</div>
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slok7565&theme=transparent" alt="Profile Details">
+</div>
 
 ---
 
