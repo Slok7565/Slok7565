@@ -116,13 +116,14 @@
     <img src="https://img.shields.io/badge/Email-EA4335?&logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
+<div>
+▲ <b>欢迎随时来找我！</b>
 </div>
 
+---
+
 <div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ▲ ......  
 ▲ 还在看？  
@@ -132,7 +133,7 @@
 ▲ ......  
 ▲ ......  
 ▲ 好吧你赢了  
-▲ 那就**勉为其难**送你一份[礼物](https://www.youtube.com/watch?v=dQw4w9WgXcQ)吧!  
+▲ 把就**勉为其难**送你一份[礼物](https://www.youtube.com/watch?v=dQw4w9WgXcQ)作为你坚持的嘉奖吧!  
 ▲ bye~  
 ▲ ;)  
 </div>
