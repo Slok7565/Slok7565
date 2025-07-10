@@ -46,7 +46,7 @@ huh？在看我？那就简单介绍一下
 ## 📊 GitHub 数据
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slok7565&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&langs_count=8&exclude_repo=archive,deprecated" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slok7565&layout=compact&theme=transparent&bg_color=0d1117&hide_border=true&title_color=58a6ff&langs_count=8&exclude_repo=archive,deprecated" alt="Top Languages" />
 
 <div align="right" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px">
   
