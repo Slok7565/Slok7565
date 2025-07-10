@@ -53,7 +53,6 @@ huh？在看我？那就简单介绍一下
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XtremeWave&repo=FinalSuspect&bg_color=1a2a3a&hide_border=true&title_color=5bc0be&text_color=88d3ce)](https://github.com/XtremeWave/FinalSuspect)
 
 </div>
-</div>
   <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Slok7565&show_icons=true&bg_color=1a2a3a&hide_border=true&title_color=5bc0be&text_color=88d3ce&icon_color=5bc0be&include_all_commits=true" alt="GitHub Stats" />
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Slok7565&background=1a2a3a&hide_border=true&stroke=2a3b4a&ring=5bc0be&fire=5bc0be&currStreakLabel=88d3ce&dates=88d3ce" alt="GitHub Streak" />
@@ -61,6 +60,7 @@ huh？在看我？那就简单介绍一下
   <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slok7565&theme=custom&background=1a2a3a&title_color=5bc0be&text_color=88d3ce" alt="Profile Details">
   </div>
+</div>
 
 ---
 
