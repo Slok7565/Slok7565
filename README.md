@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Top div">
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Slok·琐律&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=琐尘淬律，星钥自握&descSize=24&descAlignY=70" alt="Header Banner">
@@ -46,20 +46,20 @@ huh？在看我？那就简单介绍一下
 ## 📊 GitHub 数据
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slok7565&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&langs_count=8&exclude_repo=archive,deprecated" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slok7565&layout=compact&theme=dark&bg_color=1a2a3a&hide_border=true&title_color=5bc0be&text_color=88d3ce&langs_count=8&exclude_repo=archive,deprecated" alt="Top Languages" />
 
 <div align="right" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XtremeWave&repo=FinalSuspect&theme=dark&bg_color=0d1117)](https://github.com/XtremeWave/FinalSuspect)
-  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XtremeWave&repo=FinalSuspect&bg_color=1a2a3a&hide_border=true&title_color=5bc0be&text_color=88d3ce)](https://github.com/XtremeWave/FinalSuspect)
+
 </div>
 </div>
   <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Slok7565&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&include_all_commits=true" alt="GitHub Stats" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Slok7565&theme=dark&background=0d1117&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Slok7565&show_icons=true&bg_color=1a2a3a&hide_border=true&title_color=5bc0be&text_color=88d3ce&icon_color=5bc0be&include_all_commits=true" alt="GitHub Stats" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Slok7565&background=1a2a3a&hide_border=true&stroke=2a3b4a&ring=5bc0be&fire=5bc0be&currStreakLabel=88d3ce&dates=88d3ce" alt="GitHub Streak" />
   </div>
   <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slok7565&theme=github_dark" alt="Profile Details">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slok7565&theme=custom&background=1a2a3a&title_color=5bc0be&text_color=88d3ce" alt="Profile Details">
   </div>
 
 ---
