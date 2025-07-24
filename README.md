@@ -136,6 +136,8 @@
 ▲ 把就**勉为其难**送你一份[礼物](https://www.youtube.com/watch?v=dQw4w9WgXcQ)作为你坚持的嘉奖吧!  
 ▲ bye~  
 ▲ ;)  
+<embed src="//music.163.com/style/swf/widget.swf?sid=2720103983&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
