@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header">
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9bb5f1,100:5b2376&height=240&section=header&text=Slok·琐律&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=cdfffd&desc=琐尘淬律，星钥自握&descSize=23&descAlignY=65" alt="Header Banner">
@@ -19,7 +19,7 @@
 ▲ 这里是**Slok·琐律**，也是Slok7565，叫我Slok/琐律都行  
 ▲ "斯洛克"...? 也行吧
 
-▲ Slok是一名在代码世界和教室课桌间切换的高中开发者，也是**XtremeWave**团队的核心成员  
+▲ Slok是一名在代码世界和教室课桌间切换的高中开发者，也是一名**成分复杂**的玩家  
 ▲ 在我看来，C#游戏模组开发是持续学习的过程——在调试中积累经验，在项目中磨练技能  
 ▲ 作为强迫症，我的最终版代码一定是整洁且高效的，或许你可以去[逛逛](https://github.com/Slok7565?tab=repositories)?  
 
