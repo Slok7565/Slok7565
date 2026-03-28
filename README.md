@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h2>XtremeWave 创始人 | 游戏模组开发者 | C# 开发者</h2>
+  <h2>XW-&-HALO 创始人 | 游戏模组开发者 | 独立世界观创作者</h2>
 </div>
 
 <img align="right" alt="This is a Slok" src="Resources/Slok.png" width="50%" height="auto"/>
@@ -17,20 +17,25 @@
 
 ▲ huh？在看我？那就简单介绍一下  
 ▲ 这里是**Slok·琐律**，也是Slok7565，叫我Slok/琐律都行  
-▲ "斯洛克"...? 也行吧
+▲ "斯洛克"...? 也行吧——
 
-▲ Slok是一名在代码世界和教室课桌间切换的高中开发者，也是一名**成分复杂**的玩家  
-▲ 在我看来，C#游戏模组开发是持续学习的过程——在调试中积累经验，在项目中磨练技能  
-▲ 作为强迫症，我的最终版代码一定是整洁且高效的，或许你可以去[逛逛](https://github.com/Slok7565?tab=repositories)?  
+▲ Slok是一名在代码世界和教室课桌间切换的高中开发者，也是一名**成分复杂**的游戏玩家/二次元  
+▲ 在我看来，游戏模组开发是我持续学习的过程——在调试中积累经验，在项目中磨练技能  
+▲ 如今的Slok正在学习更多编程语言！敬请期待~  
+▲ 感兴趣的话，或许你可以来[这里](https://github.com/Slok7565?tab=repositories)逛逛？
+▲ 作为强迫症，我的最终版代码一定是整洁且高效……当然了，希望项目永远不会有最终版！
 
 ▲ 当不跟编译器较劲时：  
 🎧 在网易云编排电子交响曲，把代码的节奏变成旋律  
-🎮 B站上捕捉游戏的高光时刻，顺带分享点开发小技巧  
-♟ 棋盘上推演策略，这比算法题考验逻辑多了  
-🏀 球场上实践团队协作，虽然打的确实不怎么样  
+🎮 B站上捕捉游戏的高光时刻，顺带分享点开发日常/动人音乐  
+♟ 棋盘上推演策略，可玩性比算法题搞  
+🏀 球场上实践团队协作，虽然打的确实不怎么样
 
-▲ 比起修复代码的“`bug`”，我更愿意捕捉朋友情绪的“`bug`”，调试他们的心情，这比写代码成就感高多了  
-▲ 欢迎继续探索我的[项目空间](https://github.com/Slok7565?tab=repositories)——愿这里的代码能给你带来新的启发！
+▲ 比起修复代码的“`bug`”，我更愿意捕捉朋友情绪的“`bug`”，“'Debug”他们的心情，这比写代码成就感高多啦！  
+▲ 欢迎继续探索我的[项目空间](https://github.com/Slok7565?tab=repositories)——说不定我能帮到你什么呢！
+
+▲ 什么？你还想“**更进一步**”？
+▲ 嗯……好吧，来[这里](./OtherFiles/Slok.md)作客吧！
 
 ---
 
@@ -43,6 +48,7 @@
     <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
   </div>
 </div>
 
@@ -76,48 +82,106 @@
 ### 🎮 赛博世界
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0">
+  <!-- 游戏组 1：原神、崩坏·星穹铁道 -->
   <div>
-  <img src="https://img.shields.io/badge/原神-53BEE6?&logo=mihoyo&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/崩坏·星穹铁道-6C6C6C?&logo=railway&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/原神-53BEE6?&logo=mihoyo&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/崩坏·星穹铁道-6C6C6C?&logo=railway&logoColor=white&style=for-the-badge" />
   </div>
+
+  <!-- 游戏组 2：Undertale、Deltarune、Among Us、Minecraft、歧路旅人、三角战略 + 塞尔达系列、锈湖系列 -->
   <div>
-  <img src="https://img.shields.io/badge/Undertale-000000?&logo=undertale&logoColor=ff0000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deltarune-000000?&logo=undertale&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Among_Us-FF0000?&logo=amongus&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Minecraft-62B74A?&logo=minecraft&logoColor=white&style=for-the-badge&logoWidth=20" />  
-  <img src="https://img.shields.io/badge/歧路旅人-6A5ACD?&logo=squareenix&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/三角战略-6A7ACD?&logo=squareenix&logoColor=white&style=for-the-badge"/>
-    </div>
-    <div>
-  <img src="https://img.shields.io/badge/三体-0D3A80?&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/流浪地球-0A3A5E?&logoColor=white&style=for-the-badge" />
-      </div>
-      <div>
-  <img src="https://img.shields.io/badge/龙珠-FF9900?&logo=dragonframe&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/灌篮高手-FF0000?&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/凹凸世界-8A2BE2?&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/画江湖之不良人-DC143C?&logoColor=white&style=for-the-badge" />
-        </div>
+    <img src="https://img.shields.io/badge/Undertale-000000?&logo=undertale&logoColor=ff0000&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Deltarune-000000?&logo=undertale&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Among_Us-FF0000?&logo=amongus&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Minecraft-62B74A?&logo=minecraft&logoColor=white&style=for-the-badge&logoWidth=20" />  
+    <img src="https://img.shields.io/badge/歧路旅人-6A5ACD?&logo=squareenix&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/三角战略-6A7ACD?&logo=squareenix&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/塞尔达系列-2C6E4F?&logo=zelda&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/锈湖系列-8B5A2B?&logoColor=white&style=for-the-badge" />
+  </div>
+
+  <!-- 游戏组 3：第五人格、光遇 -->
+  <div>
+    <img src="https://img.shields.io/badge/第五人格-5D3A1A?&logo=identityv&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/光遇-6C9EBF?&logo=thatgamecompany&logoColor=white&style=for-the-badge" />
+  </div>
+
+  <!-- 游戏组 4：超级马里奥U、马车8、奥德赛 -->
+  <div>
+    <img src="https://img.shields.io/badge/超级马里奥U-E52525?&logo=nintendo&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/马车8-4A6FA5?&logo=mario-kart&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/奥德赛-C96A2E?&logo=super-mario-odyssey&logoColor=white&style=for-the-badge" />
+  </div>
+
+  <!-- 小说部分：三体系列、流浪地球 -->
+  <div>
+    <img src="https://img.shields.io/badge/三体系列-1A4D5E?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/流浪地球-0A3A5E?&logoColor=white&style=for-the-badge" />
+  </div>
+
+  <!-- 动漫部分：龙珠、灌篮高手、凹凸世界、画江湖之不良人 + 镇魂街、西行记、死亡笔记 -->
+  <div>
+    <img src="https://img.shields.io/badge/龙珠-FF9900?&logo=dragonframe&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/灌篮高手-FF0000?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/凹凸世界-8A2BE2?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/画江湖之不良人-DC143C?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/镇魂街-FA3E0C?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/西行记-B85C1A?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/死亡笔记-2C2C2C?&logoColor=white&style=for-the-badge" />
+  </div>
 </div>
 
-### 📱 社交媒体 & 联系
+### 🎨 灵艺工坊
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0">
+  <!-- 乐器组 -->
+  <div>
+    <img src="https://img.shields.io/badge/长笛-B0B0B0?style=for-the-badge&logo=music&logoColor=white" />
+  </div>
+
+  <!-- 美术组 -->
+  <div>
+    <img src="https://img.shields.io/badge/素描-7C8C8C?style=for-the-badge&logo=artstation&logoColor=white" />
+    <img src="https://img.shields.io/badge/速写-B59C6C?style=for-the-badge&logo=sketch&logoColor=white" />
+    <img src="https://img.shields.io/badge/色彩-B5736B?style=for-the-badge&logo=adobecolor&logoColor=white" />
+  </div>
+
+  <!-- 棋类组 -->
+  <div>
+    <img src="https://img.shields.io/badge/围棋-6A6A6A?style=for-the-badge&logo=googlegemini&logoColor=white" />
+    <img src="https://img.shields.io/badge/五子棋-4A7C6B?style=for-the-badge&logo=boardgame&logoColor=white" />
+    <img src="https://img.shields.io/badge/中国象棋-B54C3C?style=for-the-badge&logo=chinesecharacter&logoColor=white" />
+    <img src="https://img.shields.io/badge/日本将棋-6B8E6B?style=for-the-badge&logo=shogi&logoColor=white" />
+    <img src="https://img.shields.io/badge/国际象棋chess.com-81B64C?style=for-the-badge&logo=chess.com&logoColor=white" />
+  </div>
+</div>
+
+### 📱 社交网络
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0">
   <a href="https://space.bilibili.com/663878656">
     <img src="https://img.shields.io/badge/Bilibili-FF7590?&logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili" />
   </a>
-  <a href="https://music.163.com/#/artist?id=98292538">
-    <img src="https://img.shields.io/badge/网易云音乐-E60027?&logo=neteasecloudmusic&logoColor=white&style=for-the-badge" alt="网易云音乐" />
+  <a href="mailto:7565slok@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
   <a href="http://wpa.qq.com/msgrd?v=3&uin=639083778">
     <img src="https://img.shields.io/badge/QQ-12B7F5?&logo=qq&logoColor=white&style=for-the-badge" alt="QQ" />
   </a>
   <a href="mailto:slok7565@qq.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?&logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/QQ邮箱-12A7F5?&logo=gmail&logoColor=white&style=for-the-badge" 
+alt="Email" />
+  </a>
+
+  <a href="https://music.163.com/#/artist?id=98292538">
+    <img src="https://img.shields.io/badge/网易云音乐-E60027?&logo=neteasecloudmusic&logoColor=white&style=for-the-badge" alt="网易云音乐" />
+  </a>
+  <a href="mailto:slok7565@163.com">
+    <img src="https://img.shields.io/badge/网易邮箱-E60057?&logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </div>
 <div>
-▲ <b>欢迎随时来找我！</b>
+▲ <b>欢迎随时来找我——</b>
 </div>
 
 ---
@@ -135,10 +199,9 @@
 ▲ 好吧你赢了  
 ▲ 把就**勉为其难**送你一份[礼物](https://www.youtube.com/watch?v=dQw4w9WgXcQ)作为你坚持的嘉奖吧!  
 ▲ bye~  
-▲ ;)  
-<embed src="//music.163.com/style/swf/widget.swf?sid=2720103983&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+▲ ;)
 
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Footer">
 </div>
