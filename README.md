@@ -32,10 +32,11 @@
 🏀 球场上实践团队协作，虽然打的确实不怎么样
 
 ▲ 比起修复代码的“`bug`”，我更愿意捕捉朋友情绪的“`bug`”，“'Debug”他们的心情，这比写代码成就感高多啦！  
-▲ 欢迎继续探索我的[项目空间](https://github.com/Slok7565?tab=repositories)——说不定我能帮到你什么呢！
+▲ 欢迎继续探索我的[项目空间](https://github.com/Slok7565?tab=repositories)——说不定我能帮到你什么呢！  
 
-▲ 什么？你还想“**更进一步**”？
-▲ 嗯……好吧，来[这里](./OtherFiles/Slok.md)作客吧！
+▲ 什么？你还想“**更进一步**”？  
+▲ 嗯……好吧，来[这里](./OtherFiles/Slok.md)作客吧！  
+▲ 以后会有更适合做客的地方的！（再等等）
 
 ---
 
@@ -62,7 +63,7 @@
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XtremeWave&repo=FinalSuspect&hide_border=true&bg_color=00000000&title_color=5bc0be&text_color=64D2C5)](https://github.com/XtremeWave/FinalSuspect)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slok7565&repo=FinalSuspect&hide_border=true&bg_color=00000000&title_color=5bc0be&text_color=64D2C5)](https://github.com/Slok7565/FinalSuspect)
 </div>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
