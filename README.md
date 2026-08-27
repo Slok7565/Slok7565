@@ -160,6 +160,9 @@
 ### 📱 社交网络
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0">
+  <a href="https://afdian.com/a/slok7565">
+    <img src="https://img.shields.io/badge/爱发电赞赏-946CE6?style=for-the-badge&logo=heart&logoColor=white" alt="爱发电赞赏" />
+  </a>
   <a href="https://space.bilibili.com/663878656">
     <img src="https://img.shields.io/badge/Bilibili-FF7590?&logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili" />
   </a>
