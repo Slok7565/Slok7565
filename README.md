@@ -58,16 +58,16 @@
 ## 📊 GitHub 数据
 
 <div align="left" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slok7565&layout=compact&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&langs_count=8&card_opacity=0&exclude_repo=archive,deprecated" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Slok7565&layout=compact&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&langs_count=8&card_opacity=0&exclude_repo=archive,deprecated" alt="Top Languages" />
 </div>
 
 <div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 20px">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slok7565&repo=FinalSuspect&hide_border=true&bg_color=00000000&title_color=5bc0be&text_color=64D2C5)](https://github.com/Slok7565/FinalSuspect)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=Slok7565&repo=FinalSuspect&hide_border=true&bg_color=00000000&title_color=5bc0be&text_color=64D2C5)](https://github.com/Slok7565/FinalSuspect)
 </div>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
-    <img src="https://github-readme-stats.vercel.app/api?username=Slok7565&show_icons=true&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&icon_color=58a6ff&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Slok7565&show_icons=true&bg_color=00000000&hide_border=true&title_color=5bc0be&text_color=64D2C5&icon_color=58a6ff&include_all_commits=true" alt="GitHub Stats" />
 </div>    
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px">
