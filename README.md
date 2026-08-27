@@ -98,26 +98,26 @@
     <img src="https://img.shields.io/badge/歧路旅人-6A5ACD?&logo=squareenix&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/三角战略-6A7ACD?&logo=squareenix&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/塞尔达系列-2C6E4F?&logo=zelda&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/锈湖系列-8B5A2B?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/锈湖系列-8B5A2B?style=for-the-badge" />
   </div>
 
   <!-- 游戏组 3：第五人格、光遇 -->
   <div>
-    <img src="https://img.shields.io/badge/第五人格-5D3A1A?&logo=identityv&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/光遇-6C9EBF?&logo=thatgamecompany&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/第五人格-5D3A1A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/光遇-6C9EBF?style=for-the-badge" />
   </div>
 
   <!-- 游戏组 4：超级马里奥U、马车8、奥德赛 -->
   <div>
     <img src="https://img.shields.io/badge/超级马里奥U-E52525?&logo=nintendo&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/马车8-4A6FA5?&logo=mario-kart&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/奥德赛-C96A2E?&logo=super-mario-odyssey&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/马车8-4A6FA5?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/奥德赛-C96A2E?style=for-the-badge" />
   </div>
 
   <!-- 小说部分：三体系列、流浪地球 -->
   <div>
-    <img src="https://img.shields.io/badge/三体系列-1A4D5E?&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/流浪地球-0A3A5E?&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/三体系列-1A4D5E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/流浪地球-0A3A5E?style=for-the-badge" />
   </div>
 
   <!-- 动漫部分：龙珠、灌篮高手、凹凸世界、画江湖之不良人 + 镇魂街、西行记、死亡笔记 -->
@@ -137,14 +137,14 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0">
   <!-- 乐器组 -->
   <div>
-    <img src="https://img.shields.io/badge/长笛-B0B0B0?style=for-the-badge&logo=music&logoColor=white" />
+    <img src="https://img.shields.io/badge/长笛-B0B0B0?style=for-the-badge" />
   </div>
 
   <!-- 美术组 -->
   <div>
     <img src="https://img.shields.io/badge/素描-7C8C8C?style=for-the-badge&logo=artstation&logoColor=white" />
     <img src="https://img.shields.io/badge/速写-B59C6C?style=for-the-badge&logo=sketch&logoColor=white" />
-    <img src="https://img.shields.io/badge/色彩-B5736B?style=for-the-badge&logo=adobecolor&logoColor=white" />
+    <img src="https://img.shields.io/badge/色彩-B5736B?style=for-the-badge" />
   </div>
 
   <!-- 棋类组 -->
@@ -161,7 +161,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0">
   <a href="https://afdian.com/a/slok7565">
-    <img src="https://img.shields.io/badge/爱发电赞赏-946CE6?style=for-the-badge&logo=heart&logoColor=white" alt="爱发电赞赏" />
+    <img src="https://img.shields.io/badge/爱发电-946CE6?style=for-the-badge&logo=heart&logoColor=white" alt="爱发电赞赏" />
   </a>
   <a href="https://space.bilibili.com/663878656">
     <img src="https://img.shields.io/badge/Bilibili-FF7590?&logo=bilibili&logoColor=white&style=for-the-badge" alt="Bilibili" />
@@ -173,8 +173,7 @@
     <img src="https://img.shields.io/badge/QQ-12B7F5?&logo=qq&logoColor=white&style=for-the-badge" alt="QQ" />
   </a>
   <a href="mailto:slok7565@qq.com">
-    <img src="https://img.shields.io/badge/QQ邮箱-12A7F5?&logo=gmail&logoColor=white&style=for-the-badge" 
-alt="Email" />
+    <img src="https://img.shields.io/badge/QQ邮箱-12A7F5?&logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 
   <a href="https://music.163.com/#/artist?id=98292538">
@@ -201,7 +200,7 @@ alt="Email" />
 ▲ ......  
 ▲ ......  
 ▲ 好吧你赢了  
-▲ 把就**勉为其难**送你一份[礼物](https://www.youtube.com/watch?v=dQw4w9WgXcQ)作为你坚持的嘉奖吧!  
+▲ 那就**勉为其难**送你一份[礼物](https://www.youtube.com/watch?v=dQw4w9WgXcQ)作为你坚持的嘉奖吧!  
 ▲ bye~  
 ▲ ;)
 
